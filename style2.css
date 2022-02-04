@@ -1,0 +1,17 @@
+.boxmodel{
+    border: 5px solid black;
+    display: inline-block;
+    padding: 5px 20px 5px 20px;
+    margin: 0px 20px;
+    width: 50px;
+    height: 30px;
+    /* margin is for outside gap and padding: is for inside gap of a box */
+}
+p{
+   font-size: 20px; 
+}
+span{
+    /* font-size: 1.5em; */
+    font-size: 1.5rem;  
+    /* it wont be effected by any thing */
+}
